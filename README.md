@@ -1,5 +1,5 @@
 # HUD-SENSITY-FIVEM
 
 HUD Sensity leak 
-By [xWayzen]#7715
-discord : https://discord.gg/yTVpMBxasx
+By xWayzen#1337
+discord : https://discord.gg/wm2xdnp9GE
